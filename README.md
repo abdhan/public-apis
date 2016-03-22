@@ -87,6 +87,6 @@ A collective list of JSON APIs for use in web development.
 
 | API | Description | OAuth |Link |
 |---|---|---|---|
-| Football-Data.org | Football Data | No | [Go!](https://api.football-data.org/) |
+| Football-Data.org | Football Data | No | [Go!](http://api.football-data.org/) |
 
 
